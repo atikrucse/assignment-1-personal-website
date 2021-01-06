@@ -24,15 +24,20 @@ body{
 .section-1{
     margin-left: 3%;
     padding: 2%;
+    margin-bottom: 10px;
+}
+.section-2{
+    
 }
 
-.section-1 .first-part, .second-part{
+.first-part, .second-part, .third-part, .fourth-part{
     width: 40%;
     float: left;
-    height: 500px;
-    margin-left: 2%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
-.second-part img{
+img{
     height: 500px;
 }
 
@@ -45,11 +50,12 @@ body{
     font-weight: 700;
 
 }
-.first-part p{
+.first-part p, .fourth-part p{
     margin-bottom: 10%;
+    text-align: justify;
 }
-.first-part h1{
-    font-family: 'Bebas Neue', cursive;
+h1, h2{
+    font-family: 'Bebas Neue';
     font-size: 80px;
     margin: 0;
 }
@@ -61,4 +67,20 @@ body{
 }
 .name{
     color: rgba(255, 131, 103, 1);
+}
+.fourth-part h2{
+    font-size: 48px;
+    margin-top: 80px;
+}
+.fourth-part a{
+    text-decoration: none;
+    background-color:rgba(255, 128, 99, 1);
+    padding: 15px 40px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+.material-icons{
+    padding-right: 10px;
+    
 }
