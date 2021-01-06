@@ -149,11 +149,11 @@ h2{
 }
 .section-4 h2{
     color: whitesmoke;
-    margin-left: 350px;
+    margin-left: 30%;
 }
 .section-4 a{
     text-decoration: none;
-    margin-left: 200px;
+    margin-left: 15%;
     padding-top: 10px;
     border-top: 10px;
     background-color:rgba(255, 128, 99, 1);
