@@ -144,7 +144,8 @@ h2{
 .section-4 h2, a{
     
     display: inline-block;
-    padding-top: 40px;
+    /* padding-top: 40px; */
+    padding-top: 4%;
 
 }
 .section-4 h2{
