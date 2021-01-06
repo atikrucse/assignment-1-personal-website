@@ -139,14 +139,12 @@ h2{
     background-size: 50%;
     background-position-x: center;
     background-repeat: no-repeat;
-    height: 200px;
+    height: 170px;
+    margin-bottom: 3%;
 }
 .section-4 h2, a{
-    
     display: inline-block;
-    /* padding-top: 40px; */
     padding-top: 4%;
-
 }
 .section-4 h2{
     color: whitesmoke;
